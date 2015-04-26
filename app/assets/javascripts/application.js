@@ -15,4 +15,6 @@
 //= require turbolinks
 //= require_tree .
 //= require foundation
+//= require skrollr
+//= require skrollr.ie
 $(document).foundation();
